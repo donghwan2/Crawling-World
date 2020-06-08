@@ -1,6 +1,6 @@
 # Crawling-World
 1. API 활용 크롤링
-  - 공공데이터포털(data.or.kr)
+  - 공공데이터포털(data.go.kr)
   - Google maps
   - Naver maps
 
